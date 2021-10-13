@@ -1,0 +1,2 @@
+# Practicals
+Jupyter notebook files
